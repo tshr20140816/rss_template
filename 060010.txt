@@ -1,0 +1,9 @@
+http://npb.jp/news/npb_all.html
+UTF-8
+<div class="news_list">.+?<div class="wrap">
+<div class="news_block">.+?<dl>.+?<time>(.+?)<\/time>.+?<a href="(.+?)">(.+?)<\/a>
+npb
+http://npb.jp/
+__3__
+http://npb.jp__2__
+__1__ __3__
